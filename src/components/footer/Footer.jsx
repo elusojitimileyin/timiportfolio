@@ -19,19 +19,19 @@ const Footer = () => {
                </ul>
 
                <div className="footer__social">
-                   <a href="https://www.instagram.com/yung_saviour_?igsh=NTc4MTIwNjQ2YQ==" className="footer__social-link"  target={"_blank"}>
+                   <a href="https://www.instagram.com/obantu/?hl=en" className="footer__social-link"  target={"_blank"}>
                        <i className="uil uil-instagram"></i>
                    </a>
 
-                   <a href="https://www.linkedin.com/in/abolaji-abisoye-15a0b41b1/" className="footer__social-link"  target={"_blank"}>
+                   <a href="www.linkedin.com/in/timileyin-elusoji" className="footer__social-link"  target={"_blank"}>
                        <i className="uil uil-linkedin"></i>
                    </a>
 
-                   <a href="https://x.com/Aabolaji2k21" className="footer__social-link"  target={"_blank"}>
+                   <a href="https://x.com/TimileyinE84450" className="footer__social-link"  target={"_blank"}>
                        <i className="uil uil-twitter"></i>
                    </a>
 
-                   <a href="https://github.com/Abolaji2K21" className="footer__social-link" target={"_blank"}>
+                   <a href="https://github.com/elusojitimileyin" className="footer__social-link" target={"_blank"}>
                        <i className="uil uil-github"></i>
                    </a>
 

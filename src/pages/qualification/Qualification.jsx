@@ -52,6 +52,25 @@ const Qualification = () => {
                         }
                     >
                         <div className="qualification__data">
+                            <div></div>
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+                            <div>
+                                <h3 className="qualification__title">Master of Science - Environmental Chemistry</h3>
+                                <span className="qualification__subtitle">University of Lagos, Nigeria</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt"></i> 2025 - present (In view)
+                                </div>
+                            </div>
+                            {/*<div>*/}
+                            {/*    <span className="qualification__rounder"></span>*/}
+                            {/*    <span className="qualification__line"></span>*/}
+                            {/*</div>*/}
+                        </div>
+
+                        <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Business Training</h3>
                                 <span className="qualification__subtitle">Helen Business School, UK (Conducted by Semicolon in Lagos, Nigeria)
@@ -66,24 +85,6 @@ const Qualification = () => {
                             </div>
                         </div>
 
-                        <div className="qualification__data">
-                            <div></div>
-                            <div>
-                                <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
-                            </div>
-                            <div>
-                                <h3 className="qualification__title">Master of Science - Business Administration</h3>
-                                <span className="qualification__subtitle">Girne American University, Cyprus</span>
-                                <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2019 - 2021 (Thesis pending)
-                                </div>
-                            </div>
-                            {/*<div>*/}
-                            {/*    <span className="qualification__rounder"></span>*/}
-                            {/*    <span className="qualification__line"></span>*/}
-                            {/*</div>*/}
-                        </div>
 
                         <div className="qualification__data">
                             {/*<div></div>*/}
@@ -96,7 +97,7 @@ const Qualification = () => {
                                     Chemistry</h3>
                                 <span className="qualification__subtitle">University of Lagos, Nigeria</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2013 - 2017
+                                    <i className="uil uil-calendar-alt"></i> 2014 - 2018
                                 </div>
                             </div>
                             <div>
@@ -119,7 +120,7 @@ const Qualification = () => {
                                 <h3 className="qualification__title">Software Development Apprentice</h3>
                                 <span className="qualification__subtitle">Semicolon, Lagos, Nigeria</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> Oct 2023 - Present
+                                    <i className="uil uil-calendar-alt"></i> Oct 2023 - Dec 2024
                                 </div>
                             </div>
                             <div>
@@ -136,9 +137,9 @@ const Qualification = () => {
                             </div>
                             <div>
                                 <h3 className="qualification__title">Medical Data Analyst</h3>
-                                <span className="qualification__subtitle">Damilola Clinic, Lagos, Nigeria</span>
+                                <span className="qualification__subtitle">Faith Clinic, Lagos, Nigeria</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> Jan 2021 - Sep 2023
+                                    <i className="uil uil-calendar-alt"></i> Jan 2020 - Sep 2023
                                 </div>
                             </div>
                         </div>
@@ -146,9 +147,9 @@ const Qualification = () => {
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Teaching Assistant</h3>
-                                <span className="qualification__subtitle">Girne American University, Cyprus</span>
+                                <span className="qualification__subtitle">Special Science School , Enugu, Nigeria</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> Sep 2019 - Dec 2020
+                                    <i className="uil uil-calendar-alt"></i> Sep 2018 - Dec 2019
                                 </div>
                             </div>
                             <div>
@@ -165,9 +166,9 @@ const Qualification = () => {
                             </div>
                             <div>
                                 <h3 className="qualification__title">Public Relations Officer (PRO)</h3>
-                                <span className="qualification__subtitle">NYSC Secretariat, Ogun, Nigeria</span>
+                                <span className="qualification__subtitle">NYSC Secretariat, Enugu, Nigeria</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> Mar 2018 - Feb 2019
+                                    <i className="uil uil-calendar-alt"></i> Sep 2018 - Dec 2019
                                 </div>
                             </div>
                         </div>
